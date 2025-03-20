@@ -5,7 +5,7 @@ function Categories() {
     <div>
       <Navbar />
       <div className="home-pages">
-        <h1>Explore the World</h1>
+        <h1>Categories Pages</h1>
       </div>
     </div>
   )
