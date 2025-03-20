@@ -1,0 +1,19 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Orol sayohatlar",
+            "description": "Hashamatli dam olish va tropik tabiat."
+        },
+        {
+            "id": 2,
+            "name": "Tabiatga sayohatlar",
+            "description": "Hashamatli dam olish va tropik tabiat."
+        },
+        {
+            "id": 3,
+            "name": "Tarixiy joylar",
+            "description": "Hashamatli dam olish va tropik tabiat."
+        }
+    ]
+}

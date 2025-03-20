@@ -1,0 +1,33 @@
+.navbar .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    height: 80px;
+    border-bottom: 1px solid gray;
+    padding: 0 10px;
+}
+.navbar .container .logo{
+    font-size: 35px;
+    font-weight: 600;
+}
+.navbar .container .nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.navbar .container .nav a{
+    color: #000000;
+}
+.navbar .container input{
+    padding: 10px 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 17px;
+}
+.my-name-admin{
+    font-size: 15px;
+}

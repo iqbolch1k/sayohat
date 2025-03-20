@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com", "booked_tour_id": 1 },
+      { "id": 2, "name": "Alice Smith", "email": "alice@example.com", "booked_tour_id": 2 },
+      { "id": 3, "name": "Bob Johnson", "email": "bob@example.com", "booked_tour_id": 3 }
+    ]
+  }
+  

@@ -1,0 +1,71 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Maldiv orollari",
+      "description": "Maldiv orollarida dam olish, hashamatli kurortlar va ajoyib plyajlar bilan tanishing.",
+      "price": 2500,
+      "background_image": "https://daryo.uz/cache/2020/07/ec73b961d8b864d00b748db1c261a9f4-17-680x455.jpg",
+      "place": "Maldiv",
+      "category_id": 1,
+      "duration": "7 kun",
+      "available_dates": [
+        "2024-07-15",
+        "2024-08-10",
+        "2024-09-05"
+      ],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Nonushta",
+        "Ekskursiyalar"
+      ],
+      "max_people": 10,
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Shveysariya Alp tog‘lari",
+      "description": "Shveysariya Alp tog‘larida unutilmas chang‘i sayohatini amalga oshiring va go‘zal manzaralardan bahra oling.",
+      "price": 1800,
+      "background_image": "https://lh3.googleusercontent.com/proxy/nuh_KODXmzXnVlkeHAAjqxz-mq7cVREnH8UseHJCN4o2nRYN5CHtjkNREPNTrFbVeeHtypz7whvnOzvSk1bJeIp2op2SqMgmylsT6Pta6yFl5AEii4iaa69RINFEQfy0_vcCRWop",
+      "place": "Rim, Italiya",
+      "category_id": 2,
+      "duration": "5 kun",
+      "available_dates": [
+        "2024-06-20",
+        "2024-07-25"
+      ],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Issiq kiyimlar",
+        "Ekskursiyalar"
+      ],
+      "max_people": 15,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Kolizey, Rim",
+      "description": "Rim imperiyasi davridan qolgan mashhur gladiator arenasi.",
+      "price": 1600,
+      "background_image": "https://media-cdn.tripadvisor.com/media/photo-s/19/7c/6c/f7/if-listen-very-carefully.jpg",
+      "place": "Tokio, Yaponiya",
+      "category_id": 3,
+      "duration": "6 kun",
+      "available_dates": [
+        "2024-08-05",
+        "2024-09-10"
+      ],
+      "pack_includes": [
+        "Aviabilet",
+        "Mehmonxona",
+        "Choy marosimi",
+        "Ekskursiyalar"
+      ],
+      "max_people": 12,
+      "rating": 4.8
+    }
+  ]
+}
